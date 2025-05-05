@@ -1,10 +1,5 @@
 # ChatDiT with webui
 
-🔥 **Latest News!**
-
-- **[2024-12-18]** 📂 Code for **[ChatDiT](https://arxiv.org/abs/2412.12571)** are now available!
-- **[2024-12-18]** 📜 Our latest paper, **[ChatDiT](https://arxiv.org/abs/2412.12571)**, introduces a training-free, zero-shot, general-purpose, and interactive image generation system built upon diffusion transformers.
-
 Welcome to the official repository for **ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers** ([Paper](https://arxiv.org/abs/2412.12571) | [Project Page](https://ali-vilab.github.io/ChatDiT-Page/)).
 
 ChatDiT supports seamless multi-round, free-form conversations with DiTs. It supports referencing zero to multiple images to generate a new set of images, or, if desired, a fully illustrated article in response.
