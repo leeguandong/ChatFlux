@@ -1,4 +1,4 @@
-# ChatDiT
+# ChatDiT with webui
 
 🔥 **Latest News!**
 
@@ -71,39 +71,3 @@ article.save('./innovative_building_designing/')  # saves both markdown and imag
 
 Checkout input/output cases in our [Project Page](https://ali-vilab.github.io/ChatDiT-Page/).
 
-## License
-
-This repository is licensed under the [MIT LICENSE](./LICENSE). It uses [FLUX](https://github.com/black-forest-labs/flux) as the base model, so users must also comply with FLUX's license. For more details, refer to [FLUX's License](https://github.com/black-forest-labs/flux/tree/main/model_licenses).
-
-## Citation
-
-If you use ChatDiT in your research, please cite our paper:
-
-```bibtex
-@article{lhhuang2024chatdit,
-  title={ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers},
-  author={Huang, Lianghua and Wang, Wei and Wu, Zhi-Fan and Shi, Yupeng and Liang, Chen and Shen, Tong and Zhang, Han and Dou, Huanzhang and Liu, Yu and Zhou, Jingren},
-  booktitle={arXiv preprint arxiv:2412.12571},
-  year={2024}
-}
-```
-
-Also, please cite the following papers for related work:
-
-```bibtex
-@article{lhhuang2024iclora,
-  title={In-Context LoRA for Diffusion Transformers},
-  author={Huang, Lianghua and Wang, Wei and Wu, Zhi-Fan and Shi, Yupeng and Dou, Huanzhang and Liang, Chen and Feng, Yutong and Liu, Yu and Zhou, Jingren},
-  journal={arXiv preprint arxiv:2410.23775},
-  year={2024}
-}
-```
-
-```bibtex
-@article{lhhuang2024groupdiffusion,
-  title={Group Diffusion Transformers are Unsupervised Multitask Learners},
-  author={Huang, Lianghua and Wang, Wei and Wu, Zhi-Fan and Dou, Huanzhang and Shi, Yupeng and Feng, Yutong and Liang, Chen and Liu, Yu and Zhou, Jingren},
-  journal={arXiv preprint arxiv:2410.15027},
-  year={2024}
-}
-```
